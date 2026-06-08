@@ -1,4 +1,5 @@
-Simple RNN Time Series Prediction
+**Simple RNN Time Series Prediction**
+
 Overview
 This project implements a Recurrent Neural Network (RNN) for time series prediction. It demonstrates how sequential models can be applied to forecast future values based on historical data. The repository is designed as an introductory project to recurrent networks, serving as a foundation for more advanced models like GRU and LSTM.
 
@@ -13,7 +14,7 @@ Performance Metrics: RMSE, MAE, and visualization of predicted vs actual values.
 
 Educational Value: Serves as a stepping stone to more complex architectures like GRU and LSTM.
 
-🛠️ Tech Stack
+Tech Stack
 Python 3.x
 
 TensorFlow / Keras
